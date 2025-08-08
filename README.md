@@ -3,9 +3,13 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red?style=for-the-badge&logo=streamlit)
 
-A comprehensive Streamlit-based testing dashboard for OpenAI's GPT-5 API, providing systematic evaluation of all model variants, advanced parameter testing, and detailed performance analytics. 
+A comprehensive [**Streamlit**](https://walterpinem.com/tag/streamlit/)-based testing dashboard for OpenAI's [**GPT-5**](https://walterpinem.com/openai-gpt-5/) API, providing systematic evaluation of all model variants, advanced parameter testing, and detailed performance analytics.
 
 Read the comprehensive blog post: [**GPT-5 API Testing: Building GPT-5 API Testing Dashboard with Streamlit**](https://walterpinem.com/gpt-5-api-testing-streamlit/).
+
+---
+
+![GPT-5 Testing Dashboard](https://i.ibb.co.com/KxqBpC6C/GPT-5-API-Testing-Dashboard.png)
 
 ---
 
