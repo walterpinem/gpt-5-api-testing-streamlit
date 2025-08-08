@@ -1,4 +1,4 @@
-# GPT-5 Testing Dashboard - Python & Streamlit
+# GPT-5 API Testing Dashboard - Python & Streamlit
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red?style=for-the-badge&logo=streamlit)
